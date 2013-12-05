@@ -36,23 +36,3 @@ body
     -webkit-box-shadow: 0 3px 10px rgba(0,0,0,0.1);
 }
 
-/*
-.circleFill {
-    fill: #112207
-}
-*/
-
-.circleNoFill {
-    stroke: #FFFFF0;
-    stroke-width: 2;
-}
-
-.percent {
-    fill: #070b32;
-    font-size: 150%;
-    font-family: Helvetica;
-}
-
-.color {
-    color: #e4e4d5
-}
