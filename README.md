@@ -15,7 +15,7 @@ Cool but simple signature signing through SVG and a timer
 git clone https://github.com/FrankHassanabad/cool-signature.git
 ```
 
-Then open up a web browser to
+Then open up a web browser to your local file system at
 ```
-http://localhost:5000/cool-signature/index.html
+cool-signature/index.html
 ```
